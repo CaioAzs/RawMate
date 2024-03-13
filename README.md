@@ -10,6 +10,6 @@ Ao adotar o modelo de uberização, a RawMate transforma a maneira como os lojis
 Todos os documentos e fluxos do projeto estão na WIKI do repositório.
 
 <h3>INTEGRANTES</h3>
-Caio de Souza Conceição
-Pedro Henrique Algodoal
+Caio de Souza Conceição<br>
+Pedro Henrique Algodoal<br>
 Samir Oliveira da Costa
